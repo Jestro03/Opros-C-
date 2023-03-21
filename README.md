@@ -1,0 +1,2 @@
+# Opros-C-
+C++ == poop :)
